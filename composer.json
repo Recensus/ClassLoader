@@ -1,7 +1,7 @@
 {
-    "name": "symfony/class-loader",
+    "name": "recensus/class-loader",
     "type": "library",
-    "description": "Symfony ClassLoader Component",
+    "description": "Symfony ClassLoader Component - Modified to support the Recensus SDK",
     "keywords": [],
     "homepage": "http://symfony.com",
     "license": "MIT",
@@ -13,6 +13,11 @@
         {
             "name": "Symfony Community",
             "homepage": "http://symfony.com/contributors"
+        },
+        { 
+            "name": "Ben Waine",
+            "email": "ben@recensus.com",
+            "role": "Maintainer (of fork)"       
         }
     ],
     "minimum-stability": "dev",
